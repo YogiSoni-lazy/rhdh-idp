@@ -24,8 +24,8 @@ spec:
         linkOnly: false
         firstBrokerLoginFlowAlias: first broker login
         config:
-          clientId: "<github-oauth-client-id>"
-          clientSecret: "<github-oauth-client-secret>"
+          clientId: "Ov23liazmvkF4GKbR0Hw"
+          clientSecret: "cebd04d180300844d4fae42c8f6aac919432b866"
           defaultScope: "user:email"
     clients:
       - clientId: rhdh
