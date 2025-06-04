@@ -11,8 +11,8 @@ spec:
   project: default
   source:
     path: rhdh
-    repoURL: https://github.com/<your-github-account-user>/rhdh-keycloak-argocd.git
-    targetRevision: main
+    repoURL: https://github.com/YogiSoni-lazy/rhdh-idp.git
+    targetRevision: phase-1-work
   syncPolicy:
     automated:
       selfHeal: false
